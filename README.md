@@ -20,7 +20,7 @@ This repo contains the following:
 - `Data_Cleaning.ipnyb`: Data preparation and EDA
 - `GPU_Data_Modelling_Final.ipynb.`: Cross-validation Split, Feature Selection, Baseline Models and the Final Hypertuned Models
 - `README.md`: Project-specific summary
-- `Resources/`: The raw, cleaned, and merged datasets
+- `Resources/`: The raw datasets used in this study
 
  ## 💻 Dependencies
 
