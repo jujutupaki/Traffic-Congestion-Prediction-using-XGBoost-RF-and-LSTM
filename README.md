@@ -2,7 +2,8 @@
 This is the proof-of-concept code for our thesis "Predicting Traffic Congestion Levels under Different Weather Conditions using Machine Learning Approaches"
 by: Baleña, Ruma, Ruma
 
-🔗 UI Dashboard for the ML project:
+## 🔗 UI Dashboard for the ML project:
+
 https://brr-traffic.streamlit.app/
 
 ## 🎯 Purpose
