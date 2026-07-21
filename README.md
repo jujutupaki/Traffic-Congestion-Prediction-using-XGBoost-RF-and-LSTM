@@ -3,7 +3,7 @@ This is the proof-of-concept code for our thesis "Predicting Traffic Congestion 
 by: Baleña, Ruma, Ruma
 
 🔗 UI Dashboard for the ML project:
-[Link Text](https://brr-traffic.streamlit.app/)
+[https://brr-traffic.streamlit.app/](Open Streamlit App)
 
 ## 🎯 Purpose
 
